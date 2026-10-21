@@ -240,6 +240,11 @@ site_config_form:
   dropdowns: []
   repository_link: /tree/develop/_data
   translation_link: ''
+  github_client_id: Ov23liXlxlikjn2SfHdZ
+  config_folder: _data
+  github_proxy_url: github-auth-testing-2.vercel.app
+  github_repo: github-auth-testing-2-site
+  github_owner: brockfanning
 time_series_attributes:
   - field: COMMENT_TS
     label: indicator.footnote
